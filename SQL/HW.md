@@ -26,7 +26,7 @@ PIVOT
 SUM("Total") FOR "Operator"  IN (011,515,650,603,590)
 )
 ```
-#Q4
+# Q4
 ```sql
 DESCRIBE HR.EMPLOYEES
 
