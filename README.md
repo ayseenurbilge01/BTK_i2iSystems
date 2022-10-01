@@ -1,3 +1,3 @@
-# HW_SQL_i2iSystems
+BTK_i2iSystems
 
-This homework was made within the scope of "Corporate Application Development Workshop with Current Java Technologies".
+This study was carried out within the scope of "Enterprise Application Development Workshop with Current Java Technologies".
